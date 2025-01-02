@@ -1,1 +1,1 @@
-# awesome-browser-history
+# browser-history-research
